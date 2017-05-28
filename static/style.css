@@ -215,8 +215,8 @@ p.laba2 {
   border-radius: 35px 35px 35px 35px; 
   -moz-border-radius: 35px 35px 35px 35px;
   -webkit-border-radius: 35px 35px 35px 35px;
-  padding-top: 10px;
-  padding-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
       min-height: 204px;
 
 }
@@ -259,7 +259,6 @@ p.laba2 {
 
 .ans {
     margin: 10px 10px;
-    margin-left: 10%;
 
 
 }
@@ -282,17 +281,4 @@ p.laba2 {
    width: 100px;
     height: 30px; 
 
-}
-
-.window_0, .window_b {
-
-  text-align: center;
-  font-size: 18px;
-  display: inline-block;
-  width: 52px;
-  height: 27px;
-  margin: 8px;
-  
-  background-color: #f6f3db;
-  padding-top: 3px;
 }
